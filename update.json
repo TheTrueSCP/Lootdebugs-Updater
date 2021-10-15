@@ -8,13 +8,14 @@
     "lootbugs-1.16.5-v1.2-Pre Alpha" 
     "lootbugs-1.16.5-v1.1-Pre Alpha"
     "lootbugs-1.16.5-v1.0-Pre Alpha"
+    "lootbugs-1.16.5-v1.6-Alpha" 
     
   },
   "promos": {
     "<mcversion>-latest": "<modversion>",
-     "lootbugs-1.16.5-v1.5-Alpha"  
+     "lootbugs-1.16.5-v1.6-Alpha"  
     "<mcversion>-recommended": "<modversion>",
-      "lootbugs-1.16.5-v1.5-Alpha"  
+      "lootbugs-1.16.5-v1.6-Alpha"  
     ...
   }
 }
