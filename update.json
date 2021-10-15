@@ -2,20 +2,20 @@
   "homepage": "<homepage/download page for your mod>",
   "<mcversion>": {
     "<modversion>": "<changelog for this version>", 
-    "lootbugs-1.16.5-v1.5-Alpha"
+    "v1.5-Alpha"
     "lootbugs-1.16.5-v1.4-Alpha" 
     "lootbugs-1.16.5-v1.3-Pre Alpha" 
     "lootbugs-1.16.5-v1.2-Pre Alpha" 
     "lootbugs-1.16.5-v1.1-Pre Alpha"
     "lootbugs-1.16.5-v1.0-Pre Alpha"
-    "lootbugs-1.16.5-v1.6-Alpha" 
+    "v1.6-Alpha" 
     
   },
   "promos": {
     "<mcversion>-latest": "<modversion>",
-     "lootbugs-1.16.5-v1.6-Alpha"  
+     "v1.6-Alpha"  
     "<mcversion>-recommended": "<modversion>",
-      "lootbugs-1.16.5-v1.6-Alpha"  
+      "v1.6-Alpha"  
     ...
   }
 }
