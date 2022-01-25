@@ -1,21 +1,15 @@
 {
-  "homepage": "<homepage/download page for your mod>",
-  "<mcversion>": {
-    "<modversion>": "<changelog for this version>", 
-    "v1.5-Alpha"
-    "lootbugs-1.16.5-v1.4-Alpha" 
-    "lootbugs-1.16.5-v1.3-Pre Alpha" 
-    "lootbugs-1.16.5-v1.2-Pre Alpha" 
-    "lootbugs-1.16.5-v1.1-Pre Alpha"
-    "lootbugs-1.16.5-v1.0-Pre Alpha"
-    "v1.6-Alpha" 
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/lootdebugs",
+  "1.18.1": {
+     "1.18.1-Lootdebugs-v3.1-dev-test"  
+    "1.18.1-Lootdebugs-v3.2-dev-test"  
+     "1.18.1-Lootdebugs-v3.4-dev-test"  
     
   },
   "promos": {
-    "<mcversion>-latest": "<modversion>",
-     "v1.6-Alpha"  
-    "<mcversion>-recommended": "<modversion>",
-      "v1.6-Alpha"  
+ 
+     "1.18.1-latest":"1.18.1-Lootdebugs-v3.4-dev-test", 
+     "1.18.1-recommended":"1.18.1-Lootdebugs-v3.4-dev-test"  
     ...
   }
 }
