@@ -1,12 +1,11 @@
 {
-  "homepage": "https://www.curseforge.com/minecraft/mc-mods/lootdebugs",
-  "promos": 
-  {
-    "1.18.2-latest": "1.12",
-    "1.18.2-recommended": "1.12"
-  },
-  "1.18.2": {
-    "1.12": "sus",
-    "1.11": "sass"
-  }
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
+	"promos": {
+		"1.18.2-latest": "3.12",
+		"1.18.2-recommended": "3.11"
+	},
+	"1.18.2": {
+		"3.12": "fiwnal version"
+    "3.11": "finsal version"
+	}
 }
