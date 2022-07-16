@@ -3,10 +3,10 @@
 	"promos": {
 		"1.18.2-latest": "3.12",
 		"1.18.2-recommended": "3.1",
-		"1.18.1-latest": "3.6",
-		"1.18.1-recommended": "3.6",
+		"1.18.1-latest": "3.8",
+		"1.18.1-recommended": "3.7",
 		"1.16.5-latest": "2.2",
-		"1.16.5-recommended": "2.1"
+		"1.16.5-recommended": "2.2"
 	},
 	"1.18.2": {
 		"3.7": "fist 1.18 build",
@@ -27,7 +27,7 @@
 		"3.5": "[non-public build /%%NO_DATA_PROVIDED%%/]",
 		"3.6": "[non-public build /%%NO_DATA_PROVIDED%%/]",
 		"3.7": "[non-public build /%%NO_DATA_PROVIDED%%/]",
-		"3.8": "[non-public build /%%NO_DATA_PROVIDED%%/]"
+		"3.8": "gecolib test"
 	},
 	"1.16.5": {
 		"1.0": "first build",
