@@ -18,18 +18,18 @@
 		"3.61-gec-dev_build": "[non-public build /%%NO_DATA_PROVIDED%%/]"
 	},
 	"1.16.5": {
-		"1.0-pre-Alpha": "first build",
-		"1.1-pre-Alpha": "added final Lootbug Model/Texture",
-		"1.2-pre-Alpha": "added Lootbug animations",
-		"1.3-pre-Alpha": "improved Lootbug",
-		"1.4-Alpha": "improved Lootbug",
-		"1.5-Alpha": "added Ommoran Hearthstone",
-		"1.6-Alpha": "completed Lootbug, improved Ommoran Hearthstone",
-		"1.7-Alpha": "added Pub, added Ommoran Hearthstone parts",
-		"1.8-Alpha": "added Brewing Ingredients\n [!!!!!WARNING!!!!! WITH THIS VERSION ALL BLOCKS FROM PREVIOUS VERSIONS WILL BE REMOVED/ERASED FORM EARLIER VERSIONS]<]",
-		"1.9-Alpha-Bugfix": "Preparation for big Alpha to Beta update",
-		"2.0-Alpha-to-Beta": "The big Alpha to Beta update",
-		"2.1-Beta-Bugfix": "Beta Bugfix",
-		"2.2-Important_Bugfix": "Preparation for the Conversion Update to 1.18.x"
+		"1.0": "first build",
+		"1.1": "added final Lootbug Model/Texture",
+		"1.2": "added Lootbug animations",
+		"1.3": "improved Lootbug",
+		"1.4": "improved Lootbug",
+		"1.5": "added Ommoran Hearthstone",
+		"1.6": "completed Lootbug, improved Ommoran Hearthstone",
+		"1.7": "added Pub, added Ommoran Hearthstone parts",
+		"1.8": "added Brewing Ingredients\n [!!!!!WARNING!!!!! WITH THIS VERSION ALL BLOCKS FROM PREVIOUS VERSIONS WILL BE REMOVED/ERASED FORM EARLIER VERSIONS]<]",
+		"1.9": "Preparation for big Alpha to Beta update",
+		"2.0": "The big Alpha to Beta update",
+		"2.1": "Beta Bugfix",
+		"2.2": "Preparation for the Conversion Update to 1.18.x"
 	}
 }
