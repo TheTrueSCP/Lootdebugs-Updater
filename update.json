@@ -3,9 +3,5 @@
 	"promos": {
 		"1.18.2-latest": "3.12",
 		"1.18.2-recommended": "3.11"
-	},
-	"1.18.2": {
-		"3.12": "fiwnal version",
-		"3.11": "finsal version"
 	}
 }
