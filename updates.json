@@ -1,15 +1,14 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/lootdebugs",
-  "1.18.1": {
-     "1.18.1-Lootdebugs-v3.1-dev-test"  
-    "1.18.1-Lootdebugs-v3.2-dev-test"  
-     "1.18.1-Lootdebugs-v3.4-dev-test"  
-    
+  "1.18.2": {
+    "1.18.2-Lootdebugs-v3.12-dev_sever_serializer_test_build": "sus", 
+    "1.18.2-Lootdebugs-v3.12-dev_sever_serializer_test_build1": "s2us", 
   },
   "promos": {
- 
-     "1.18.1-latest":"1.18.1-Lootdebugs-v3.4-dev-test", 
-     "1.18.1-recommended":"1.18.1-Lootdebugs-v3.4-dev-test"  
-    ...
+    "1.18.2-latest": "1.18.2-Lootdebugs-v3.12-dev_sever_serializer_test_build",
+    // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
+    "1.18.2-recommended": "1.18.2-Lootdebugs-v3.12-dev_sever_serializer_test_build",
+    // Declare the latest "stable" version of your mod for the given Minecraft version
+    // ...
   }
 }
