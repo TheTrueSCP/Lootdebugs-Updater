@@ -9,17 +9,17 @@
 		"1.16.5-recommended": "1.12"
 	},
 	"1.18.2": {
-		"3.7": "1.18.2 gecolib test",
-		"3.8": "[non-public build /%%NO_DATA_PROVIDED%%/]",
-		"3.9": "[non-public build /%%NO_DATA_PROVIDED%%/]",
-		"3.10": "[non-public build /%%NO_DATA_PROVIDED%%/]",
-		"3.11": "[non-public build /%%NO_DATA_PROVIDED%%/]",
-		"3.12": "[non-public build /%%NO_DATA_PROVIDED%%/]",
-		"3.13": "[non-public build /%%NO_DATA_PROVIDED%%/]",
-		"3.14": "[non-public build /%%NO_DATA_PROVIDED%%/]",
-		"3.15": "[non-public build /%%NO_DATA_PROVIDED%%/]",
-		"3.16": "[non-public build /%%NO_DATA_PROVIDED%%/]",
-		"3.17": "[non-public build /%%NO_DATA_PROVIDED%%/]"
+		"2.7": "1.18.2 gecolib test",
+		"2.8": "[non-public build /%%NO_DATA_PROVIDED%%/]",
+		"2.9": "[non-public build /%%NO_DATA_PROVIDED%%/]",
+		"2.10": "[non-public build /%%NO_DATA_PROVIDED%%/]",
+		"2.11": "[non-public build /%%NO_DATA_PROVIDED%%/]",
+		"2.12": "[non-public build /%%NO_DATA_PROVIDED%%/]",
+		"2.13": "[non-public build /%%NO_DATA_PROVIDED%%/]",
+		"2.14": "[non-public build /%%NO_DATA_PROVIDED%%/]",
+		"2.15": "[non-public build /%%NO_DATA_PROVIDED%%/]",
+		"2.16": "[non-public build /%%NO_DATA_PROVIDED%%/]",
+		"2.17": "[non-public build /%%NO_DATA_PROVIDED%%/]"
 	},
 	"1.18.1": {
 		"2.0": "fist 1.18 build",
