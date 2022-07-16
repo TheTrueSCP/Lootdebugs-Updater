@@ -23,9 +23,11 @@
 		"3.1": "[non-public build /%%NO_DATA_PROVIDED%%/]",
 		"3.2": "[non-public build /%%NO_DATA_PROVIDED%%/]",
 		"3.3": "[non-public build /%%NO_DATA_PROVIDED%%/]",
-		"3.4": "[non-public build /%%NO_DATA_PROVIDED%%/]",
+		"3.4": "DEV-snapshot",
 		"3.5": "[non-public build /%%NO_DATA_PROVIDED%%/]",
-		"3.6": "[non-public build /%%NO_DATA_PROVIDED%%/]"
+		"3.6": "[non-public build /%%NO_DATA_PROVIDED%%/]",
+		"3.7": "[non-public build /%%NO_DATA_PROVIDED%%/]",
+		"3.8": "[non-public build /%%NO_DATA_PROVIDED%%/]"
 	},
 	"1.16.5": {
 		"1.0": "first build",
