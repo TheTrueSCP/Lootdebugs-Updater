@@ -9,12 +9,12 @@
 		"1.16.5-recommended": "2.2"
 	},
 	"1.18.2": {
-		"3.7": "fist 1.18 build",
-		"3.8": "fist 1.18 build",
-		"3.9": "fist 1.18 build",
-		"3.10": "fist 1.18 build",
-		"3.11": "fist 1.18 build",
-		"3.12": "fist 1.18 build"
+		"3.7": "1.18.2 gec test",
+		"3.8": "[non-public build /%%NO_DATA_PROVIDED%%/]",
+		"3.9": "[non-public build /%%NO_DATA_PROVIDED%%/]",
+		"3.10": "[non-public build /%%NO_DATA_PROVIDED%%/]",
+		"3.11": "[non-public build /%%NO_DATA_PROVIDED%%/]",
+		"3.12": "[non-public build /%%NO_DATA_PROVIDED%%/]",
 		
 		
 	},
