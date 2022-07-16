@@ -1,11 +1,33 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
 	"promos": {
+		"1.18.2-latest": "3.12",
+		"1.18.2-recommended": "3.12"
+		"1.18.1-latest": "3.61",
+		"1.18.1-recommended": "3.6"
 		"1.16.5-latest": "2.2",
-		"1.16.5-recommended": "2.2"
+		"1.16.5-recommended": "2.1"
+	},
+	"1.18.2": {
+		"3.7": "fist 1.18 build",
+		"3.8": "fist 1.18 build",
+		"3.9": "fist 1.18 build",
+		"3.10": "fist 1.18 build",
+		"3.11": "fist 1.18 build",
+		"3.12": "fist 1.18 build"
+		
+		
 	},
 	"1.18.1": {
-		"7.4.1": "final version"
+		"3.0": "fist 1.18 build",
+		"3.1": "[non-public build /%%NO_DATA_PROVIDED%%/]",
+		"3.2": "[non-public build /%%NO_DATA_PROVIDED%%/]",
+		"3.3": "[non-public build /%%NO_DATA_PROVIDED%%/]",
+		"3.4": "[non-public build /%%NO_DATA_PROVIDED%%/]",
+		"3.41": "DEV-snapshot",
+		"3.5": "[non-public build /%%NO_DATA_PROVIDED%%/]",
+		"3.6": "[non-public build /%%NO_DATA_PROVIDED%%/]",
+		"3.61": "[non-public build /%%NO_DATA_PROVIDED%%/]"
 	},
 	"1.16.5": {
 		"1.0": "first build",
