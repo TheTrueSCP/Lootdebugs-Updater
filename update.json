@@ -1,8 +1,8 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/lootdebugs",
 	"promos": {
-		"1.18.2-latest": "2.18",
-		"1.18.2-recommended": "2.18",
+		"1.18.2-latest": "2.19",
+		"1.18.2-recommended": "2.19",
 		"1.18.1-latest": "2.8",
 		"1.18.1-recommended": "2.7",
 		"1.16.5-latest": "1.12",
@@ -20,7 +20,8 @@
 		"2.15": "[non-public build /%%NO_DATA_PROVIDED%%/]",
 		"2.16": "[non-public build /%%NO_DATA_PROVIDED%%/]",
 		"2.17": "[non-public build /%%NO_DATA_PROVIDED%%/]",
-		"2.18": "fixed pub brewing recipe"
+		"2.18": "fixed pub brewing recipe",
+		"2.19": "showing build"
 	},
 	"1.18.1": {
 		"2.0": "fist 1.18 build",
