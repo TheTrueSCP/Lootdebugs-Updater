@@ -24,7 +24,9 @@
 		"2.19": "showing build",
 		"2.20": "added new class system old maps not playable anymore",
 		"2.21": "added zipline, general bugfixes",
-		"2.22": "fixed zipline an world gen, optimized dwarf class reading system, general bugfixes"
+		"2.22": "fixed zipline an world gen, optimized dwarf class reading system, general bugfixes",
+		"3.0": "Tec n' Tools Update"
+
 	},
 	"1.18.1": {
 		"2.0": "fist 1.18 build",
